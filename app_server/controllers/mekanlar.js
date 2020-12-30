@@ -18,7 +18,7 @@ const anaSayfa=function(req,res,next){
  		'mesafe':'5 km'
  	},
  	 {
- 	 	'ad':'Köfteci Yusuf',
+ 	 	'ad':'Kofteci Yusuf',
  	 	'adres':'Çünür Mh, Süleyman Demirel Cd. No:167/171, 32200 Isparta Merkez/Isparta',
  	 	'puan':4,
  	 	'imkanlar':['Köfte','Tatlı Çeşitleri','Döner Çeşitleri','Salata Çeşitleri'],
